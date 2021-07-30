@@ -2,10 +2,10 @@
 Cybersecurity Bootcamp Project #1
 
 
-Overview
+Overview  
 This week, you will set up a cloud monitoring system by configuring an ELK stack server.
 
-Week Objectives
+Week Objectives  
 You will use the following skills and knowledge to complete the following project steps:
 
 Deploying containers using Ansible and Docker.
