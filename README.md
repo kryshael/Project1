@@ -38,12 +38,13 @@ Metricbeat takes the metrics and statistics that you collects and displays in a 
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
-| Name     | Function | IP Address | Operating System |
-|----------|----------|------------|------------------|
-| Jump Box | Gateway  | 10.0.0.1   | Linux            |
-| TODO     |          |            |                  |
-| TODO     |          |            |                  |
-| TODO     |          |            |                  |
+|   Name  |  Function  | IP Address |   OS  | Container Type |
+|:-------:|:----------:|:----------:|:-----:|:--------------:|
+| Jumpbox |   Gateway  |  10.0.0.4  | Linux |     Ansible    |
+|  Web 1  | Web Server |  10.0.0.7  | Linux |      DVWA      |
+|  Web 2  | Web Server |  10.0.0.8  | Linux |      DVWA      |
+|  Web 3  | Web Server |  10.0.0.10 | Linux |      DVWA      |
+|   Elk   | Elk Server |  10.1.0.5  | Linux |     Elk:761    |
 
 ### Access Policies
 
