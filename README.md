@@ -36,7 +36,6 @@ Filebeat watches for any information in the file system which has been changed a
 Metricbeat takes the metrics and statistics that you collects and displays in a format of your choosing.
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
 |   Name  |  Function  | IP Address |   OS  | Container Type |
 |:-------:|:----------:|:----------:|:-----:|:--------------:|
