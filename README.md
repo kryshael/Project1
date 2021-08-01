@@ -31,8 +31,9 @@ Load balancers protects the system from DDoS attacks by shifting attack traffic.
 The advantage of a jump box is to give access to the user from a single node that can be secured and monitored.
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
-- _TODO: What does Filebeat watch for?_
-- _TODO: What does Metricbeat record?_
+
+Filebeat watches for any information in the file system which has been changed and when it has.
+Metricbeat takes the metrics and statistics that you collects and displays in a format of your choosing.
 
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
