@@ -10,7 +10,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above.
 
- ![](Assets/Yml Scripts/Elk.yml)
+ ![](Assets/YmlScripts/Elk.yml)
 
 This document contains the following details:
 - Description of the Topology
