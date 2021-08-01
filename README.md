@@ -30,7 +30,7 @@ Load balancing ensures that the application will be highly available, in additio
 Load balancers protects the system from DDoS attacks by shifting attack traffic.
 The advantage of a jump box is to give access to the user from a single node that can be secured and monitored.
 
-Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the data and system logs.
 
 Filebeat watches for any information in the file system which has been changed and when it has.
 Metricbeat takes the metrics and statistics that you collects and displays in a format of your choosing.
