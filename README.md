@@ -8,7 +8,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![](Assets/Screenshots/Day4Final.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above.
 
   - _TODO: Enter the playbook file._
 
