@@ -10,7 +10,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above.
 
-![Ansible Elk Playbook](https://github.com/kryshael/Project1/blob/main/Assets/Screenshots/Elk.png)
+![Ansible Elk Playbook](https://github.com/kryshael/Project1/blob/main/Assets/YmlScripts/Elk.yml)
 
 
 This document contains the following details:
