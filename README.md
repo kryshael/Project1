@@ -103,9 +103,10 @@ Metricbeat is a lightweight shipper that you can install on your servers to peri
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
 
 SSH into the control node and follow the steps below:
-- Copy the elk.yml file to _____.
-- Update the _____ file to include...
-- Run the playbook, and navigate to ____ to check that the installation worked as expected.
+- Copy the elk.yml file to /etc/ansible
+- Update the hosts file to include the IP address of the ELK server ( 10.1.0.5 )
+- Run the playbook **andible-playbook elk.yml** and use a web browser along with your Elk servers' public IP address to veryify that the installation was a success.
+**https://xxx.xx.xx.xx/app/kibana**
 
 _TODO: Answer the following questions to fill in the blanks:_
 - _Which file is the playbook? Where do you copy it?_
