@@ -108,6 +108,8 @@ SSH into the control node and follow the steps below:
 - Run the playbook **andible-playbook elk.yml** and use a web browser along with your Elk servers' public IP address to veryify that the installation was a success.
 **https://xxx.xx.xx.xx/app/kibana**
 
+![](Assets/Screenshots/KibanaHome.png)
+
 _TODO: Answer the following questions to fill in the blanks:_
 - _Which file is the playbook? Where do you copy it?_
 - _Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?_
