@@ -79,7 +79,7 @@ The [Ansible Elk Playbook](https://github.com/kryshael/Project1/blob/main/Assets
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[](Assets/Screenshots/DockerPS.png)
+![](Assets/Screenshots/DockerPS.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
