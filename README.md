@@ -106,7 +106,7 @@ SSH into the control node and follow the steps below:
 - Copy the elk.yml file to /etc/ansible
 - Update the hosts file to include the IP address of the ELK server ( 10.1.0.5 )
 - Run the playbook **andible-playbook elk.yml** and use a web browser along with your Elk servers' public IP address to veryify that the installation was a success.
-**https://xxx.xx.xx.xx/app/kibana**
+**https://(your public IP address)/app/kibana**
 
 ![](Assets/Screenshots/KibanaHome.png)
 
